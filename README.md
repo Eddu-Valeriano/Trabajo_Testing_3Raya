@@ -1,4 +1,4 @@
-# 🎮 Tres en Raya (Tic Tac Toe) - Aplicando TDD
+# 🎮 Tres en Raya - Aplicando TDD
 
 ## 📌 Descripción
 
